@@ -1,0 +1,202 @@
+#	Trait	SNP rs	Context	Gene	Gene ID	Gene 2	Gene ID 2	Chromosome	Location	P-Value	Source	PubMed	Analysis ID	Study ID	Study Name	Population
+1	Exercise Test	9291270	intergenic	PRKRIRP9	100131309	GABRG1	2565	4	45523162	1.66239268037654E-15	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+2	Exercise Test	2554309	intron	TMOD3	29766	TMOD3	29766	15	51887853	3.12757701061611E-14	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+3	Exercise Test	26252	intron	EFNA5	1946	EFNA5	1946	5	107501548	8.7086840124156E-14	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+4	Exercise Test	10493672	intron	LOC101927412	101927412	LOC101927412	101927412	1	80646108	3.91087663255496E-12	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+5	Exercise Test	27362	intron	EFNA5	1946	EFNA5	1946	5	107502053	8.7684510460483E-12	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+6	Exercise Test	2246254	intron	HIF1A-AS1	100750246	HIF1A-AS1	100750246	14	61682071	1.87389080462243E-11	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+7	Exercise Test	10500409	intergenic	RPL12P36	100271408	RPS27P27	100271585	16	58966183	4.42754040982881E-11	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+8	Exercise Test	1941211	intron	OPCML	4978	OPCML	4978	11	133418524	4.56027684002274E-11	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+9	Exercise Test	3864087	intergenic	OXTR	5021	RAD18	56852	3	8823040	1.38834600240258E-10	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+10	Exercise Test	7322113	intron	CDK8	1024	CDK8	1024	13	26268070	2.41183065018679E-10	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+11	Exercise Test	7891653	intron	PTCHD1-AS	100873065	PTCHD1-AS	100873065	X	22307593	2.62927276407974E-10	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+12	Exercise Test	7181962	intron	FMN1	342184	FMN1	342184	15	33125157	3.48395574349756E-10	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+13	Exercise Test	10483468	intergenic	DPPA3P2	400206	SFTA3	253970	14	36454098	5.37764170797747E-10	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+14	Exercise Test	222949	intron	CYYR1-AS1	100996571	CYYR1-AS1	100996571	21	26539676	1.08062423950071E-9	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+15	Exercise Test	222949	intron	CYYR1	116159	CYYR1	116159	21	26539676	1.08062423950071E-9	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+16	Exercise Test	990097	intron	SLC24A3	57419	SLC24A3	57419	20	19308327	1.22302923983656E-9	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+17	Stress Disorders, Post-Traumatic	1033962	intron	PRTFDC1	56952	PRTFDC1	56952	10	24927877	2E-9	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+18	Stress Disorders, Post-Traumatic	6812849	intron	TLL1	7092	TLL1	7092	4	165951384	3E-9	NHGRI	23726511				African|European|African American
+19	Exercise Test	16879488	intergenic	MRPL51P1	351773	IGBP1P5	391642	4	27568088	3.53624698032162E-9	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+20	Exercise Test	10511364	intergenic	PTMAP8	728873	IGSF11	152404	3	117119049	3.81384630821158E-9	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+21	Exercise Test	1154314	intron	EFNA5	1946	EFNA5	1946	5	107500633	4.70962963961261E-9	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+22	Exercise Test	10484189	intron	MDGA2	161357	MDGA2	161357	14	47259924	5.18689608947824E-9	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+23	Exercise Test	10517809	intergenic	ANP32C	23520	LINC01207	100505989	4	164578126	1.19759998232199E-8	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+24	Exercise Test	7891653	intron	PTCHD1-AS	100873065	PTCHD1-AS	100873065	X	22307593	1.27240514887427E-8	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+25	Exercise Test	1386204	intergenic	PRKRIRP9	100131309	GABRG1	2565	4	45422446	1.3485358897643E-8	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+26	Exercise Test	10521831	intergenic	MAGEC2	51438	SPANXN4	441525	X	142842056	1.53235041595256E-8	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+27	Exercise Test	10516117	intergenic	GAPDHP71	2613	SUMO2P6	100127922	5	174515062	1.92864444012973E-8	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+28	Exercise Test	1491371	intron	KCNIP4	80333	KCNIP4	80333	4	20873323	1.95033667693444E-8	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+29	Stress Disorders, Post-Traumatic	406001	intergenic	CICP17	642663	POM121L12	285877	7	51938719	2E-8	NHGRI	23726511				African|European|African American
+30	Exercise Test	10500409	intergenic	RPL12P36	100271408	RPS27P27	100271585	16	58966183	2.28981090248894E-8	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+31	Stress Disorders, Post-Traumatic	406001	intergenic	CICP17	642663	POM121L12	285877	7	51938719	3E-8	NHGRI	23726511				African|European|African American
+32	Stress, Psychological	17056278	intron	EBF1	1879	EBF1	1879	5	158825430	3E-8	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+33	Exercise Test	7979212	intron	PDZRN4	29951	PDZRN4	29951	12	41299315	4.83280912927612E-8	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+34	Stress Disorders, Post-Traumatic	159572	intron	ANKRD55	79722	ANKRD55	79722	5	56211219	6E-8	NHGRI	27167565				African|European|African American|Hispanic
+35	Exercise Test	10508324	intergenic	LINC00707	100507127	SFMBT2	57713	10	7123125	6.15724719717429E-8	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+36	Exercise Test	222949	intron	CYYR1-AS1	100996571	CYYR1-AS1	100996571	21	26539676	6.2217158299624E-8	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+37	Exercise Test	222949	intron	CYYR1	116159	CYYR1	116159	21	26539676	6.2217158299624E-8	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+38	Exercise Test	1247684	intergenic	RASSF6	166824	CXCL8	3576	4	73662061	6.91365779069495E-8	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+39	Exercise Test	957535	intergenic	CTGF	1490	MIR548AJ1	100616191	6	131996124	8.85070139346982E-8	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+40	Stress Disorders, Post-Traumatic	6812849	intron	TLL1	7092	TLL1	7092	4	165951384	1E-7	NHGRI	23726511				African|European|African American
+41	Exercise Test	1941211	intron	OPCML	4978	OPCML	4978	11	133418524	1.00226034028894E-7	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+42	Exercise Test	1860797	intergenic	ADCYAP1R1	117	NEUROD6	63974	7	31297374	1.16567756859993E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+43	Exercise Test	10520913	intron	CDH10	1008	CDH10	1008	5	24517598	1.44789459940528E-7	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+44	Exercise Test	10519325	intron	TMOD3	29766	TMOD3	29766	15	51854129	1.52162176925984E-7	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+45	Exercise Test	1369685	intergenic	PRDM9	56979	CDH10	1008	5	24291111	1.52243647358732E-7	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+46	Exercise Test	7132313	intron	MSRB3	253827	MSRB3	253827	12	65282462	1.71872869172177E-7	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+47	Exercise Test	17649232	nearGene-3	PDE1A	5136	PDE1A	5136	2	182140011	1.7217842581111E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+48	Exercise Test	2164531	intron	ARHGAP10	79658	ARHGAP10	79658	4	147929816	1.85188532154645E-7	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+49	Exercise Test	10519323	intron	TMOD2	29767	TMOD2	29767	15	51772219	1.99804285836357E-7	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+50	Exercise Test	10519326	intron	TMOD3	29766	TMOD3	29766	15	51872923	2.05560072231116E-7	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+51	Exercise Test	2016718	intron	C8orf37-AS1	100616530	C8orf37-AS1	100616530	8	95731977	2.19519215368249E-7	dbGaP	17903301	1687	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+52	Exercise Test	17054777	intron	EBF2	64641	EBF2	64641	8	26028641	2.20392669854296E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+53	Exercise Test	4145327	intergenic	ANP32C	23520	LINC01207	100505989	4	164576231	2.20699599123118E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+54	Exercise Test	1374952	intergenic	ELL2P2	100421143	R3HDM2P1	100419742	4	132986110	2.35681264172208E-7	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+55	Exercise Test	10493011	intergenic	WNT4	54361	MIR4418	100616433	1	22149323	2.39470133550397E-7	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+56	Exercise Test	10516117	intergenic	GAPDHP71	2613	SUMO2P6	100127922	5	174515062	2.46907574195484E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+57	Exercise Test	10502778	intergenic	PIK3C3	5289	LINC00907	284260	18	42181378	2.48379672363582E-7	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+58	Exercise Test	6714959	intron	KCNS3	3790	KCNS3	3790	2	17930227	2.63120179340852E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+59	Exercise Test	10521355	intergenic	PBDC1	51260	LDHBP2	3947	X	76228401	2.69473124371878E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+60	Exercise Test	990096	intron	SLC24A3	57419	SLC24A3	57419	20	19308250	2.75495173189402E-7	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+61	Exercise Test	10497182	intergenic	ERMN	57471	FAM133DP	728066	2	157355517	2.83649255933571E-7	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+62	Exercise Test	10521356	intergenic	PBDC1	51260	LDHBP2	3947	X	76228563	2.9563131975419E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+63	Exercise	2396190	intergenic	MIR4439	100616207	NYAP2	57624	2	225145121	3E-7	NHGRI	26491034				European
+64	Exercise Test	10497180	intergenic	ERMN	57471	FAM133DP	728066	2	157350754	3.20858638045868E-7	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+65	Exercise Test	10497181	intergenic	ERMN	57471	FAM133DP	728066	2	157350823	3.20858638045868E-7	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+66	Exercise Test	10497183	intergenic	ERMN	57471	FAM133DP	728066	2	157359991	3.20858638045868E-7	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+67	Exercise Test	10514778	intron	AFF3	3899	AFF3	3899	2	99647995	3.30381457425335E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+68	Exercise Test	1867569	intron	PBLD	64081	PBLD	64081	10	68326401	3.33291834479033E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+69	Exercise Test	10517134	intergenic	PRKRIRP9	100131309	GABRG1	2565	4	45366129	3.68917876607141E-7	dbGaP	17903301	1680	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+70	Exercise Test	1823357	intergenic	ABCB10P3	728248	MIR4509-2	100616228	15	28408878	3.71653131044459E-7	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+71	Exercise Test	10503781	intron	EBF2	64641	EBF2	64641	8	26022210	3.72604732628565E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+72	Exercise Test	2886792	intron	SEMA3C	10512	SEMA3C	10512	7	80746945	3.76882164511013E-7	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+73	Exercise Test	10514869	intron	LOC100507002	100507002	LOC100507002	100507002	17	65105140	4.23792422135861E-7	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+74	Exercise Test	6940025	intron	LAMA2	3908	LAMA2	3908	6	129166556	4.27511494358382E-7	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+75	Exercise Test	919291	intron	EGFLAM	133584	EGFLAM	133584	5	38290100	4.4982871293859E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+76	Exercise Test	919291	intron	EGFLAM-AS4	100852408	EGFLAM-AS4	100852408	5	38290100	4.4982871293859E-7	dbGaP	17903301	1672	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+77	Stress Disorders, Post-Traumatic	6812849	intron	TLL1	7092	TLL1	7092	4	165951384	5E-7	NHGRI	23726511				African|European|African American
+78	Exercise Test	10519869	intron	RYR3	6263	RYR3	6263	15	33749517	5.19399492631152E-7	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+79	Exercise Test	7137869	intergenic	CCDC60	160777	TMEM233	387890	12	119551841	6E-7	NHGRI	17903295				NR
+80	Stress Disorders, Post-Traumatic	263232	intron	ADCY8	114	ADCY8	114	8	130795923	6E-7	NHGRI	24677629				European
+81	Exercise Test	10514114	intron	ARSB	411	ARSB	411	5	78964835	6.69428217901334E-7	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+82	Stress Disorders, Post-Traumatic	16904179	intron	FAM49B	51571	FAM49B	51571	8	129946705	7E-7	NHGRI	23726511				African|European|African American
+83	Stress Disorders, Post-Traumatic	4511180	ncRNA	PTPRVP	148713	PTPRVP	148713	1	202180311	8E-7	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+84	Exercise Test	1029947	intron	PRKAG2	51422	PRKAG2	51422	7	151578666	9.20098546464132E-7	dbGaP	17903301	1679	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+85	Exercise Test	10509593	intergenic	SNRPD2P1	119358	HTR7	3363	10	90134005	9.54043983271217E-7	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+86	Stress Disorders, Post-Traumatic	3100127	nearGene-5	LGR6	59352	LGR6	59352	1	202191842	1E-6	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+87	Stress Disorders, Post-Traumatic	6812849	intron	TLL1	7092	TLL1	7092	4	165951384	1E-6	NHGRI	23726511				African|European|African American
+88	Stress Disorders, Post-Traumatic	7866350	intron	TBC1D2	55357	TBC1D2	55357	9	98221544	1E-6	NHGRI	26114229				European|Hispanic
+89	Stress Disorders, Post-Traumatic	682457	intergenic	MIR3166	100423040	CTSC	1075	11	88216364	1E-6	NHGRI	24677629				European
+90	Exercise Test	10521804	intergenic	MIR320D2	100302169	SPANXB1	728695	X	140944242	1.01471903113914E-6	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+91	Exercise Test	942943	intergenic	MIR4293	100422843	MIR1265	100302116	10	14422368	1.10315891377954E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+92	Exercise Test	707341	intergenic	RNF4	6047	FAM193A	8603	4	2570552	1.13183781496827E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+93	Exercise Test	4404787	cds-synon	LAMA2	3908	LAMA2	3908	6	129059881	1.20408075213426E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+94	Exercise Test	2554309	intron	TMOD3	29766	TMOD3	29766	15	51887853	1.21348668366374E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+95	Exercise Test	10521622	intron	FRMPD4	9758	FRMPD4	9758	X	12157756	1.24422802531078E-6	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+96	Exercise Test	1892445	intergenic	OR2T11	127077	OR2T35	403244	1	248631070	1.29406938312651E-6	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+97	Exercise Test	6124036	intergenic	MIR548AG2	100616440	CDH4	1002	20	60942423	1.42273547983154E-6	dbGaP	17903301	1686	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+98	Exercise Test	16838470	intron	THSD7B	80731	THSD7B	80731	2	137254749	1.73142430938124E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+99	Exercise Test	234511	intergenic	SPATA8	145946	LINC00923	91948	15	97004895	1.78292370008155E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+100	Stress Disorders, Post-Traumatic	4327428	intron	SLC6A20	54716	SLC6A20	54716	3	45767837	1.9310000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+101	Exercise Test	10491518	intergenic	BRINP1	1620	MIR147A	406939	9	119669548	1.93681709952214E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+102	Exercise	222158	intron	CYYR1	116159	CYYR1	116159	21	26499842	2E-6	NHGRI	26491034				European
+103	Exercise	222158	intron	CYYR1-AS1	100996571	CYYR1-AS1	100996571	21	26499842	2E-6	NHGRI	26491034				European
+104	Stress Disorders, Post-Traumatic	4955793	intron	ZMAT3	64393	ZMAT3	64393	3	179064233	2E-6	NHGRI	23726511				African|European|African American
+105	Stress Disorders, Post-Traumatic	10457838	intron	UST	10090	UST	10090	6	149036411	2E-6	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+106	Stress Disorders, Post-Traumatic	7014900	intergenic	RPL18P7	100270945	TRPS1	7227	8	114566078	2E-6	NHGRI	23726511				African|European|African American
+107	Stress Disorders, Post-Traumatic	2779551	intron	GABBR2	9568	GABBR2	9568	9	98490944	2E-6	NHGRI	23726511				African|European|African American
+108	Stress Disorders, Post-Traumatic	7158872	intergenic	RPL18P1	326291	ATP5G2P2	319119	14	48957639	2E-6	NHGRI	23726511				African|European|African American
+109	Stress Disorders, Post-Traumatic	12232346	intron	LOC101928174	101928174	LOC101928174	101928174	15	34768262	2E-6	NHGRI	26114229				European|Hispanic
+110	Stress, Psychological	7094310	intergenic	PRKCQ-AS1	439949	LINC00706	100652997	10	6749072	2E-6	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+111	Exercise Test	10504990	intron	VPS13B	157680	VPS13B	157680	8	99498753	2.08315703530839E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+112	Exercise Test	2115467	intron	ATG10	83734	ATG10	83734	5	82255658	2.34482985387618E-6	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+113	Exercise Test	10506816	intergenic	MIR1252	100302136	PAWR	5074	12	79531077	2.34490067195659E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+114	Stress Disorders, Post-Traumatic	7929006	intron	CLMP	79827	CLMP	79827	11	123177454	2.6120000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+115	Exercise Test	10506532	intron	WIF1	11197	WIF1	11197	12	65111882	2.66252438451014E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+116	Exercise Test	2336434	intergenic	WIF1	11197	APOOP3	100131528	12	65125486	2.70780396728688E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+117	Exercise Test	6847149	intergenic	LRIT3	345193	KRT19P3	442114	4	109878941	2.74245451702539E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+118	Exercise Test	723349	intergenic	MIR1302-4	100302130	CREB1	1385	2	207312269	2.75324305549289E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+119	Exercise Test	10495458	intron	FMN2	56776	FMN2	56776	1	240098565	2.75741187166464E-6	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+120	Exercise	3906453	intergenic	RPL29P32	390856	MBD2	8932	18	53731968	3E-6	NHGRI	26491034				European
+121	Exercise Test	6847149	intergenic	LRIT3	345193	KRT19P3	442114	4	109878941	3E-6	NHGRI	17903301				European
+122	Stress Disorders, Post-Traumatic	2312236	intergenic	CNN2P10	646693	POGK	57645	1	166824980	3E-6	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+123	Stress Disorders, Post-Traumatic	13006863	intron	SLC4A5	57835	SLC4A5	57835	2	74236439	3E-6	NHGRI	23726511				African|European|African American
+124	Stress Disorders, Post-Traumatic	2616978	intron	CSMD1	64478	CSMD1	64478	8	4620822	3E-6	NHGRI	25456346				East Asian|Asian|African|European|African American|Indian American|Hispanic
+125	Stress Disorders, Post-Traumatic	2272651	intron	NDRG1	10397	NDRG1	10397	8	133258305	3E-6	NHGRI	23726511				African|European|African American
+126	Stress Disorders, Post-Traumatic	7158872	intergenic	RPL18P1	326291	ATP5G2P2	319119	14	48957639	3E-6	NHGRI	23726511				African|European|African American
+127	Exercise Test	3809889	intergenic	KRT35	3886	KRT36	8689	17	41483351	3.02430415733034E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+128	Exercise Test	10511428	intergenic	DMRT2	10655	RPS27AP14	100271378	9	1162447	3.03492215903162E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+129	Exercise Test	1331977	intron	APBA1	320	APBA1	320	9	69485653	3.06207549609105E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+130	Exercise Test	7661032	intergenic	ELL2P2	100421143	R3HDM2P1	100419742	4	132985377	3.14865400528207E-6	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+131	Stress Disorders, Post-Traumatic	6704426	intron	RNF220	55182	RNF220	55182	1	44601763	3.3260000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+132	Exercise Test	1692140	intron	GJA5	2702	GJA5	2702	1	147759423	3.44466985536548E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+133	Exercise Test	1692140	intron	LOC102723321	102723321	LOC102723321	102723321	1	147759423	3.44466985536548E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+134	Exercise Test	2819770	intron	RYR2	6262	RYR2	6262	1	237747704	3.53348284009082E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+135	Exercise Test	10514920	intergenic	HSPD1P22	100462984	KIF2A	3796	5	61768636	3.57988055304578E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+136	Exercise Test	6526990	intergenic	GLRA2	2742	NPM1P9	392428	X	14826201	3.61066151531252E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+137	Exercise Test	10495113	intergenic	TGFB2	7042	LYPLAL1	127018	1	218915586	3.77867532399708E-6	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+138	Exercise Test	1029946	intron	PRKAG2	51422	PRKAG2	51422	7	151578720	3.8932726987811E-6	dbGaP	17903301	1679	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+139	Exercise	10887741	intron	PAPSS2	9060	PAPSS2	9060	10	87683553	4E-6	NHGRI	19727025				European
+140	Exercise Test	2819770	intron	RYR2	6262	RYR2	6262	1	237747704	4E-6	NHGRI	17903301				European
+141	Stress Disorders, Post-Traumatic	71534169	intron	DPP6	1804	DPP6	1804	7	154801156	4E-6	NHGRI	24677629				European
+142	Stress Disorders, Post-Traumatic	7014900	intergenic	RPL18P7	100270945	TRPS1	7227	8	114566078	4E-6	NHGRI	23726511				African|European|African American
+143	Stress Disorders, Post-Traumatic	77963519	intron	LOC102724001	102724001	LOC102724001	102724001	15	81901505	4E-6	NHGRI	24677629				European
+144	Stress Disorders, Post-Traumatic	4491792	intergenic	OTOR	56914	PCSK2	5126	20	16760180	4E-6	NHGRI	23726511				African|European|African American
+145	Stress, Psychological	564309	intron	TRIM11	81559	TRIM11	81559	1	228397861	4E-6	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+146	Stress, Psychological	564309	nearGene-5	MIR6742	102465444	MIR6742	102465444	1	228397861	4E-6	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+147	Exercise Test	10510905	intergenic	SNTN	132203	C3orf49	132200	3	63811196	4.02798206344416E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+148	Exercise Test	2382659	intron	SHROOM4	57477	SHROOM4	57477	X	50785333	4.11175143702554E-6	dbGaP	17903301	1674	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+149	Exercise Test	10511429	intergenic	DMRT2	10655	RPS27AP14	100271378	9	1162143	4.14571839842302E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+150	Exercise Test	9320599	intron	ROS1	6098	ROS1	6098	6	117419303	4.31918359868098E-6	dbGaP	17903301	1684	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+151	Exercise Test	1795462	intron	LGR5	8549	LGR5	8549	12	71567820	4.39722903452144E-6	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+152	Exercise Test	1374952	intergenic	ELL2P2	100421143	R3HDM2P1	100419742	4	132986110	4.41182934493476E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+153	Exercise Test	7028761	intergenic	DMRT2	10655	RPS27AP14	100271378	9	1162556	4.5146685591612E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+154	Exercise Test	746463	intron	ZC3H12C	85463	ZC3H12C	85463	11	110125219	4.87540569310272E-6	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+155	Exercise Test	746463	intron	ZC3H12C	85463	ZC3H12C	85463	11	110125219	5E-6	NHGRI	17903301				European
+156	Stress Disorders, Post-Traumatic	17504106	intergenic	ATP10B	23120	GABRB2	2561	5	161042632	5E-6	NHGRI	26114229				European|Hispanic
+157	Stress Disorders, Post-Traumatic	2460905	intron	KIAA1456	57604	KIAA1456	57604	8	12977091	5E-6	NHGRI	24677629				European
+158	Stress Disorders, Post-Traumatic	7076096	intron	GRID1	2894	GRID1	2894	10	85848703	5E-6	NHGRI	23726511				African|European|African American
+159	Stress Disorders, Post-Traumatic	10768747	intron	LINC01499	102723644	LINC01499	102723644	11	41798900	5E-6	NHGRI	26114229				European|Hispanic
+160	Stress Disorders, Post-Traumatic	1116255	intergenic	RPL13AP25	100287887	MIR5007	100846996	13	54914870	5E-6	NHGRI	26114229				European|Hispanic
+161	Stress Disorders, Post-Traumatic	7207499	intron	PRKCA	5578	PRKCA	5578	17	66451047	5E-6	NHGRI	23726511				African|European|African American
+162	Exercise Test	7661032	intergenic	ELL2P2	100421143	R3HDM2P1	100419742	4	132985377	5.23784945309999E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+163	Exercise Test	10514778	intron	AFF3	3899	AFF3	3899	2	99647995	5.35968467572356E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+164	Stress Disorders, Post-Traumatic	17279437	missense	SLC6A20	54716	SLC6A20	54716	3	45772602	5.9770000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+165	Exercise Test	2553268	intron	WRN	7486	WRN	7486	8	31078840	6E-6	NHGRI	17903301				European
+166	Stress Disorders, Post-Traumatic	4430311	nearGene-5	AKT3	10000	AKT3	10000	1	243852691	6E-6	NHGRI	23726511				African|European|African American
+167	Stress Disorders, Post-Traumatic	2437772	intron	SDC2	6383	SDC2	6383	8	96500749	6E-6	NHGRI	26114229				European|Hispanic
+168	Stress Disorders, Post-Traumatic	73419609	intron	UNC13C	440279	UNC13C	440279	15	54423444	6E-6	NHGRI	26114229				European|Hispanic
+169	Exercise Test	10507452	intergenic	RPS12P24	100271551	LINC00547	400121	13	37349644	6.31634557277734E-6	dbGaP	17903301	1676	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+170	Exercise Test	2553268	intron	WRN	7486	WRN	7486	8	31078840	6.31966375083062E-6	dbGaP	17903301	1692	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+171	Exercise Test	3864087	intergenic	OXTR	5021	RAD18	56852	3	8823040	6.34876974618488E-6	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+172	Stress Disorders, Post-Traumatic	2046050	intron	NDST4	64579	NDST4	64579	4	115043224	6.4520000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+173	Exercise Test	1829758	intergenic	BCL2A1	597	ZFAND6	54469	15	80028609	6.57506335688396E-6	dbGaP	17903301	1669	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+174	Exercise Test	1789369	intron	ZC3H12C	85463	ZC3H12C	85463	11	110124562	6.60423285027475E-6	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+175	Exercise Test	956627	intron	RASSF8	11228	RASSF8	11228	12	26060787	6.87992765533921E-6	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+176	Exercise	3861882	intron	PRRX2	51450	PRRX2	51450	9	129703025	7E-6	NHGRI	26491034				European
+177	Exercise	3862435	intron	CRTC3	64784	CRTC3	64784	15	90539300	7E-6	NHGRI	26491034				European
+178	Exercise	8097348	intergenic	LINC00470	56651	METTL4	64863	18	1595020	7E-6	NHGRI	19727025				European
+179	Stress Disorders, Post-Traumatic	1425392	intergenic	TECRL	253017	MTND5P13	100873272	4	64526494	7E-6	NHGRI	23726511				African|European|African American
+180	Stress Disorders, Post-Traumatic	834811	intergenic	MTPN	136319	PSMC1P3	392100	7	136199823	7E-6	NHGRI	26114229				European|Hispanic
+181	Exercise Test	628926	intergenic	TLR4	7099	TPT1P9	389787	9	117839528	7.05913850662034E-6	dbGaP	17903301	1670	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+182	Stress Disorders, Post-Traumatic	859967	intergenic	NPM1P10	10837	HACE1	57531	6	104064967	7.1380000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+183	Exercise Test	10505568	intron	ADCY8	114	ADCY8	114	8	131025304	7.17325364966255E-6	dbGaP	17903301	1678	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+184	Exercise Test	961747	intergenic	TBCAP1	494540	FAM47A	158724	X	33618320	7.35926990162076E-6	dbGaP	17903301	1688	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+185	Stress Disorders, Post-Traumatic	6808835	nearGene-5	LOC102724297	102724297	LOC102724297	102724297	3	46408373	7.5840000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+186	Stress Disorders, Post-Traumatic	6808835	cds-synon	CCRL2	9034	CCRL2	9034	3	46408373	7.5840000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+187	Stress Disorders, Post-Traumatic	1995462	nearGene-3	TSPEAR	54084	TSPEAR	54084	21	44497708	7.6140000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+188	Exercise	12612420	intergenic	C2orf47	79568	SPATS2L	26010	2	200293399	8E-6	NHGRI	19727025				European
+189	Stress Disorders, Post-Traumatic	9725031	intergenic	DISC2	27184	SIPA1L2	57568	1	232308709	8E-6	NHGRI	24677629				European
+190	Stress Disorders, Post-Traumatic	1915919	intron	KAT2B	8850	KAT2B	8850	3	20042389	8E-6	NHGRI	24677629				European
+191	Stress Disorders, Post-Traumatic	16907840	intergenic	GAPDHP21	389970	ZWINT	11130	10	55789536	8E-6	NHGRI	23726511				African|European|African American
+192	Stress, Psychological	7863100	intron	ADAMTSL1	92949	ADAMTSL1	92949	9	18640592	8E-6	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+193	Exercise Test	2163307	intron	CSMD1	64478	CSMD1	64478	8	4448098	8.21979286985853E-6	dbGaP	17903301	1682	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+194	Stress Disorders, Post-Traumatic	6419403	intergenic	VN1R57P	100312809	CCDC59	29080	12	81895259	8.2740000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+195	Exercise Test	1958055	intron	NPAS3	64067	NPAS3	64067	14	33715580	8.54713418485531E-6	dbGaP	17903301	1683	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+196	Stress Disorders, Post-Traumatic	7032966	intergenic	TMEM252	169693	PIP5K1B	8395	9	68596686	8.9580000E-006	dbGaP	20616382	3868	864	Genomic Predictors of Combat Stress Vulnerability and Resilience	European|African American|Hispanic|Indian American|East Asian
+197	Stress Disorders, Post-Traumatic	61793204	intergenic	PCDH7	5099	MAPRE1P2	642305	4	31288660	9E-6	NHGRI	26114229				European|Hispanic
+198	Stress, Psychological	13115750	intergenic	LINC00290	728081	LOC90768	90768	4	181559422	9E-6	NHGRI	25271088				East Asian|African|European|African American|Hispanic
+199	Exercise Test	7828552	intergenic	XKR9	389668	EYA1	2138	8	70787972	9.33630178767686E-6	dbGaP	17903301	1687	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+200	Exercise Test	1941212	intron	OPCML	4978	OPCML	4978	11	133418440	9.4393145143495E-6	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+201	Exercise Test	6670793	cds-synon	FAM76A	199870	FAM76A	199870	1	27734063	9.85603653136565E-6	dbGaP	17903301	1690	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
